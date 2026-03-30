@@ -1,0 +1,4 @@
+Adição de texto para gerar commit com a criação de nova pasta e novo arquivo
+
+Foram utilizado comandos como mkdir para criaçã de nova pasta, e touch para criação de arquivo .txt
+
